@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Welcome to my blog. For more about me, check out [my website](https://jjjjjjjjjjcross.github.io/) to learn more [about me](https://jjjjjjjjjjcross.github.io/about.html). Write to me at cross dot joey at gmail dot com. Thanks for reading!
