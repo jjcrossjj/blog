@@ -1,7 +1,3 @@
---
-tags: life update
---
-
 ## An Update on the Changes...Life in Berlin
 
 We've moved to Berlin (May/June 2022) and I have started a new position as a researcher at the Humboldt-Universität zu Berlin, in the Theologische Fakultät, working for an exciting new project at the cutting edge of comparative work in biblical studies and Egyptology called DEMBIB ("From Texts to Literature: Demotic Egyptian Papyri and the Formation of the Hebrew Bible"). [Here's the project website](https://www.theologie.hu-berlin.de/en/dembib/dembib). Check out also [my own website](https://jjcrossjj.github.io/), esp. the ["About"](https://jjcrossjj.github.io/about.html) page, for a newly written overview of my intellectual interests and projects.
